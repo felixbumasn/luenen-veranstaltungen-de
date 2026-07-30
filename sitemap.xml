@@ -2,74 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://luenen-veranstaltungen.de/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/app/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/bonus/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/login/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/sitemap/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/about-us/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/contact-us/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/cookie-policy/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/privacy-policy/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/responsible-gambling/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://luenen-veranstaltungen.de/terms-and-conditions/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://luenen-veranstaltungen.de/de-DE/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>
